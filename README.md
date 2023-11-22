@@ -1,4 +1,4 @@
-# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
+![deepika r 23006405 (2)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/02cbfe6e-9d61-44f7-a7be-42cb30128a20)# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
 ### DATE: 
 
@@ -20,15 +20,16 @@
 ### 5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
 ### 6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## Playing with Axes
+## Playing with Axes![deepika r 23006405 (5)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/10a0d81d-3f84-44af-8724-5c440873c56a)
+
 ### 1.	Move the r-axis slider and observe the movement of the r-axis assembly.
 ### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
+![DEEPIKA R 23006405](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/0509da1b-df12-4a6b-8b1f-b3cbfeb9b45a)
+![deepika r 23006405 (5)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/0d8e4bb0-7927-4768-b288-a879b76a0328)
+![deepika r 23006405 (5)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/4a9868ab-e6b5-4e28-b9c3-d7d7e620fe57)
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
