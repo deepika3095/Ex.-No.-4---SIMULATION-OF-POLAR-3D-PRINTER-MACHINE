@@ -34,8 +34,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Deepika R
+### Register Number: 23006405
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
