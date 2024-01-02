@@ -20,7 +20,7 @@
 ### 5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
 ### 6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## Playing with Axes![deepika r 23006405 (5)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/10a0d81d-3f84-44af-8724-5c440873c56a)
+## Playing with Axes
 
 ### 1.	Move the r-axis slider and observe the movement of the r-axis assembly.
 ### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
