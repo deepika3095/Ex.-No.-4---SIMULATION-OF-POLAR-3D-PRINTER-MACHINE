@@ -1,4 +1,4 @@
-![deepika r 23006405 (2)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/02cbfe6e-9d61-44f7-a7be-42cb30128a20)# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
+## Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
 ### DATE: 
 
@@ -28,6 +28,7 @@
 
 ## OUTPUT:
 ![DEEPIKA R 23006405](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/0509da1b-df12-4a6b-8b1f-b3cbfeb9b45a)
+![deepika r 23006405 (2)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/02cbfe6e-9d61-44f7-a7be-42cb30128a20)# 
 ![deepika r 23006405 (5)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/0d8e4bb0-7927-4768-b288-a879b76a0328)
 ![deepika r 23006405 (5)](https://github.com/deepika3095/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625159/4a9868ab-e6b5-4e28-b9c3-d7d7e620fe57)
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
